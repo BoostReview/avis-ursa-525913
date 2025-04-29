@@ -1,2 +1,8 @@
-# avis-ursa-525913
-Page d'avis personnalisée pour recueillir des retours clients
+# Page d'avis pour avis-ursa-525913
+
+Cette page d'avis personnalisée a été générée automatiquement.
+
+## Contenu
+
+- `index.html`: La page d'avis principale
+- `vercel.json`: Configuration pour le déploiement Vercel
